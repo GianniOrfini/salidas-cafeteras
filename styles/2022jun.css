@@ -129,16 +129,20 @@ body {
 .galeriad {
   padding-top: 14px;
   display: grid;
-  grid-template-columns: 400px 1fr;
-  gap: 472px;
+  grid-template-columns: 400px 711.09px 400px;
+  gap: 36px;
 }
 
-.galeria > img, .galeriad > img, .galeriat > img, .galeriac > img {
+.galeria > img, .galeriat > img, .galeriac > img {
   max-width: 400px;
   object-fit: cover;
 }
 .galeriat, .galeriac {
   margin-top: 60px;
+}
+ .galeriad > img, {
+   max-height: 533.33px:
+   object-fit: cover;
 }
 
 img.ancha {
