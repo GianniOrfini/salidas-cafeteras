@@ -140,7 +140,7 @@ body {
 .galeriat, .galeriac {
   margin-top: 60px;
 }
- .galeriad > img, {
+ .galeriad > img {
    max-height: 533.33px;
    object-fit: cover;
 }
