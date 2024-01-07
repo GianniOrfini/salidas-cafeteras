@@ -142,6 +142,16 @@ body {
   max-height: 532px;
   object-fit: cover;
 }
+.galeriat {
+  padding-top: 36px;
+  display: grid;
+  grid-template-columns: 400px 805.38px 400px;
+  gap: 36px;
+}
+.galeriat > img {
+  max-height: 533.33px;
+  object-fit: cover;
+}
 .blank {
   z-index: -1;
 }
