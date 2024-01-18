@@ -142,8 +142,9 @@ body {
 }
 .galerias {
   display: grid;
+  padding-top: 14px;
   grid-template-columns: 400px 400px 800px;
-  gap: 85px;
+  gap: 36px;
 }
 .galeria > img, .galeriad > img, .galeriat > img, .galeriac > img {
   max-width: 400px;
