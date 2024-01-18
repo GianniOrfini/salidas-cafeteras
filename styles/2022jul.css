@@ -187,7 +187,7 @@ img.larga {
   grid-column-end: 3;
   grid-row-start: 2;
   grid-row-end: 6;
-  max-width: 836px;
+  max-height: 533.33px;
 }
 img.larga2 {
   grid-column-start: 3;
