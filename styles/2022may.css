@@ -142,7 +142,7 @@ body {
 }
 .galerias {
   display: grid;
-  padding-top: 14px;
+  padding-top: 36px;
   grid-template-columns: 400px 400px 800px;
   gap: 36px;
 }
