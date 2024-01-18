@@ -140,7 +140,11 @@ body {
 .galeriac {
   grid-template-columns: 400px 400px 400px;
 }
-
+.galerias {
+  display: grid;
+  grid-template-columns: 400px 400px 800px;
+  gap: 85px;
+}
 .galeria > img, .galeriad > img, .galeriat > img, .galeriac > img {
   max-width: 400px;
   object-fit: cover;
@@ -148,7 +152,10 @@ body {
 .galeriat, .galeriac {
   margin-top: 60px;
 }
-
+.galerias > img {
+  max-height: 533.33px;
+  object-fit: cover;
+}
 img.ancha {
   max-width: 2900px;
 }
